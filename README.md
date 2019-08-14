@@ -1,5 +1,6 @@
 # umi-plugin-chunk-runtime
 
+[![Build Status](https://img.shields.io/travis/aixfox/umi-plugin-chunk-runtime.svg?style=flat-square)](https://travis-ci.org/aixfox/umi-plugin-chunk-runtime)
 [![NPM version](https://img.shields.io/npm/v/umi-plugin-chunk-runtime.svg?style=flat-square)](https://www.npmjs.com/package/umi-plugin-chunk-runtime)
 [![NPM downloads](https://img.shields.io/npm/dm/umi-plugin-chunk-runtime.svg?style=flat-square)](https://www.npmjs.com/package/umi-plugin-chunk-runtime)
 
